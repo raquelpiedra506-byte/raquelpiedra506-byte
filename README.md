@@ -1,13 +1,18 @@
 <p align="center">
 <img width="736" heigth="414" alt="banner2" src="https://i.pinimg.com/1200x/37/00/db/3700db3de651bcd84a16ec419b09bc8f.jpg"> </p>
 
-<h1 align="center">
-  Hey, i'm <span style="color:#39C5BB;">iBm!</span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=39C5BB&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+iBm!;Welcome+to+my+profile!" />
+</p>
 
-<h2 align="center">About me</h2>
-
+<h2 align="center">About me:</h2>
+<table align="center">
+  <tr>
+    <td>
 <p> 🎓 Systems Analysis and Development<br> 💻 Learning Web Development<br> 🎨 Digital Artist<br> 🎮 Gamer & creative project enjoyer</p>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">💻 My skills</h2>
 
