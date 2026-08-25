@@ -1,8 +1,8 @@
 <h1 align="center">iBm commit!</h1>
 
 <p align="center">
-<img width="36" height="24" alt="miku" src="https://i.pinimg.com/736x/ce/b4/76/ceb4768aa26e4d294fbda4c549843320.jpg">
-<img width="36" height="24" alt="miku" src="https://i.pinimg.com/736x/37/21/ad/3721ad7ab6ae5ca73b78bdf3fb7710c3.jpg">
+<img width="26" height="24" alt="miku" src="https://i.pinimg.com/736x/ce/b4/76/ceb4768aa26e4d294fbda4c549843320.jpg">
+<img width="26" height="24" alt="miku" src="https://i.pinimg.com/736x/37/21/ad/3721ad7ab6ae5ca73b78bdf3fb7710c3.jpg">
 </p>
 
 <p align="center">
