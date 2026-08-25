@@ -9,7 +9,9 @@
 <table align="center">
   <tr>
     <td>
-<p> 🎓 Systems Analysis and Development<br> 💻 Learning Web Development<br> 🎨 Digital Artist<br> 🎮 Gamer & creative project enjoyer</p>
+      <big>
+        <p> 🎓 Systems Analysis and Development<br> 💻 Learning Web Development<br> 🎨 Digital Artist<br> 🎮 Gamer & creative project enjoyer</p>
+      </big>
     </td>
   </tr>
 </table>
