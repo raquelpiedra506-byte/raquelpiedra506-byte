@@ -9,16 +9,45 @@
 <table align="center">
   <tr>
     <td>
-      <big>
-        <p> 🎓 Systems Analysis and Development<br> 💻 Learning Web Development<br> 🎨 Digital Artist<br> 🎮 Gamer & creative project enjoyer</p>
-      </big>
+        <p> 🎓 • Systems Analysis and Development;<br>
+          💻 • Learning Web Development;<br>
+          🎨 • Digital Artist;<br>
+          🎮 • Gamer & creative project enjoyer;
+        </p>
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/7e/74/82/7e74821272737bc706c2e548ba8644bf.gif" width="250">
     </td>
   </tr>
 </table>
 
-<h2 align="center">💻 My skills</h2>
-
+<h2 align="center"> My skills</h2>
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" /> </p>
+
+<h2 align="center">Socials</h2>
+
+<p align="center">
+  <a href="SEU_LINK_DO_GITHUB">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=39C5BB">
+  </a>
+
+  <a href="SEU_LINK_DO_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=39C5BB">
+  </a>
+
+  <a href="SEU_LINK_DO_DISCORD">
+    <img src="https://img.shields.io/badge/Discord-161B22?style=for-the-badge&logo=discord&logoColor=39C5BB">
+  </a>
+
+  <a href="SEU_LINK">
+  <img src="https://img.shields.io/badge/Twitter-161B22?style=for-the-badge&logo=x&logoColor=39C5BB">
+  </a>
+  
+  <a href="SEU_LINK_DO_PINTEREST">
+  <img src="https://img.shields.io/badge/Pinterest-161B22?style=for-the-badge&logo=pinterest&logoColor=39C5BB">
+  </a>
+</p>
+
 
 <h2 align="center">🌊 Projects</h2>
 
