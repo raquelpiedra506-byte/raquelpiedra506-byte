@@ -56,20 +56,6 @@
 
 </p>
 
-<h2 align="center">🩵 GitHub Stats 🩵</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raquelpiedra506-byte&show_icons=true&theme=tokyonight&hide_border=true" width="400">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelpiedra506-byte&layout=compact&theme=tokyonight&hide_border=true" width="400">
-</p>
-
-<h2 align="center">🩵 My Activity 🩵</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raquelpiedra506-byte&bg_color=0D1117&color=39C5BB&line=39C5BB&point=FFFFFF&area=true&hide_border=true">
-</p>
-
 <p align="center">
   <img width="736" height="414" alt="Miku banner" src="https://github.com/user-attachments/assets/134586af-95bc-4f6b-a30b-0782a0d71b04">
 </p>
