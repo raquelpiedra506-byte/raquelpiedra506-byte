@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=39C5BB">
   </a>
 
-  <a href="SEU_LINK_DO_DISCORD">
+  <a href="[SEU_LINK_DO_DISCORD](https://discord.com/channels/@me)">
     <img src="https://img.shields.io/badge/Discord-161B22?style=for-the-badge&logo=discord&logoColor=39C5BB">
   </a>
 
